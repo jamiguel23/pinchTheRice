@@ -1,2 +1,2 @@
-# thePerfectBite
-The Perfect Bite Food Blog
+# pinchTheRice
+Pinch the Rice Food Blog
