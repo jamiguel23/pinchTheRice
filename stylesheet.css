@@ -5,8 +5,12 @@
 
 nav {
     float: right;
+    
 }
 
-.column {
-    float: left;
+.about {
+    float: right;
+    width: 300px;
+    text-align: center;
+    
 }
