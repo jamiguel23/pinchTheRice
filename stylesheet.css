@@ -1,16 +1,23 @@
 * { 
-    background-color: white;
+    background-color: forestgreen;
 
 }
 
-nav {
-    float: right;
-    
-}
+
 
 .about {
     float: right;
     width: 300px;
     text-align: center;
+    border-style: solid;
     
+}
+
+header {
+    border-style: solid;
+}
+
+.recipe {
+    border-style: solid;
+    text-align: left;
 }
